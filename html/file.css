@@ -1,5 +1,16 @@
-h1 {color:rgb(1, 71, 29); text-decoration:underline} 
-body{text-align: center
-  }
+h1{color:rgb(255, 233, 64); text-decoration:underline; letter-spacing: 2px; font-size: 34px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+body {
+  text-align: center; 
+  background: url(image/harward.jpg) no-repeat center center fixed; background-size: cover; 
+ }
+ 
+ 
+   {
+
+}
+
+
 div#special{ color : black;font-size: larger;
 } 
